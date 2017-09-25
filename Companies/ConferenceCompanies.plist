@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Blue Apron</key>
+	<array>
+		<string></string>
+		<string>https://www.blueapron.com/</string>
+		<string>https://www.blueapron.com/pages/our-team</string>
+		<string>https://www.blueapron.com/pages/vision</string>
+	</array>
+	<key>Bechtel</key>
+	<array>
+		<string></string>
+		<string>http://www.bechtel.com/</string>
+		<string>https://jobs.bechtel.com/</string>
+		<string>http://www.bechtel.com/services/</string>
+	</array>
+	<key>BASF</key>
+	<array>
+		<string></string>
+		<string>https://www.basf.com/us/en.html</string>
+		<string>https://www.basf.com/us/en/company/career.html</string>
+		<string>https://www.basf.com/us/en/company/career/why-join-basf.html</string>
+	</array>
+	<key>BAE Systems</key>
+	<array>
+		<string></string>
+		<string>http://www.baesystems.com/en/home</string>
+		<string>http://www.baesystems.com/en-us/careers</string>
+		<string>http://www.baesystems.com/en-us/our-company/bae-systems-inc/about-us</string>
+	</array>
+	<key>Arup</key>
+	<array>
+		<string></string>
+		<string>https://www.arup.com/</string>
+		<string>https://www.arup.com/careers</string>
+		<string>https://www.arup.com/our-firm</string>
+	</array>
+	<key>American Airlines</key>
+	<array>
+		<string></string>
+		<string>https://www.aa.com/homePage.do</string>
+		<string>http://careers.calif.aaa.com/</string>
+		<string>https://www.aa.com/i18n/customer-service/about-us/american-airlines-group.jsp</string>
+	</array>
+	<key>Allstate</key>
+	<array>
+		<string></string>
+		<string>https://www.allstate.com/</string>
+		<string>https://www.allstate.com/careers.aspx</string>
+		<string>https://www.allstate.com/about.aspx</string>
+	</array>
+	<key>Akamai</key>
+	<array>
+		<string></string>
+		<string>https://www.akamai.com/</string>
+		<string>https://www.akamai.com/us/en/about/careers/</string>
+		<string>https://www.akamai.com/us/en/about/</string>
+	</array>
+	<key>Air Products</key>
+	<array>
+		<string></string>
+		<string>http://www.airproducts.com/</string>
+		<string>http://www.airproducts.com/Careers/overview.aspx</string>
+		<string>http://www.airproducts.com/Company/about-us.aspx</string>
+	</array>
+	<key>3M</key>
+	<array>
+		<string></string>
+		<string>https://www.3m.com/3M/en_US/company-us/</string>
+		<string>https://www.3m.com/3M/en_US/careers-us/</string>
+		<string>https://www.3m.com/3M/en_US/company-us/about-3m/</string>
+	</array>
+	<key>Accenture</key>
+	<array>
+		<string>AccentureLogo.png</string>
+		<string>https://www.accenture.com/us-en/company</string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>Two Sigma</key>
+	<array>
+		<string></string>
+		<string>https://www.twosigma.com/</string>
+		<string>https://www.twosigma.com/careers/students</string>
+		<string>https://www.twosigma.com/about</string>
+	</array>
+	<key>Adobe Systems, Inc.</key>
+	<array>
+		<string>AdobeLogo.png</string>
+		<string>http://www.adobe.com</string>
+		<string>http://www.adobe.com/careers.html</string>
+		<string>http://www.adobe.com/about-adobe.html</string>
+	</array>
+	<key>Amazon.com</key>
+	<array>
+		<string>AmazonLogo.png</string>
+		<string>http://www.amazon.com</string>
+		<string>https://www.amazon.jobs/</string>
+		<string>https://www.amazon.com/p/feature/rzekmvyjojcp6uc?ref_=footer_aa</string>
+	</array>
+	<key>BMC</key>
+	<array>
+		<string>BMCLogo.png</string>
+		<string>http://www.bmc.com/</string>
+		<string>http://www.bmc.com/careers/careers.html</string>
+		<string>http://www.bmc.com/corporate/about-bmc-software.html</string>
+	</array>
+	<key>Brocade</key>
+	<array>
+		<string>BrocadeLogo.png</string>
+		<string>http://www.brocade.com/en.html</string>
+		<string> http://www.brocade.com/en/about-us/careers.html</string>
+		<string> http://www.brocade.com/en/about-us.html</string>
+	</array>
+	<key>BP</key>
+	<array>
+		<string>BPLogo.png</string>
+		<string> http://www.bp.com/</string>
+		<string> http://www.bp.com/en/global/bp-careers.html</string>
+		<string> http://www.bp.com/en/global/corporate/about-bp.html</string>
+	</array>
+	<key>Chevron</key>
+	<array>
+		<string>ChevronLogo.png</string>
+		<string>https://www.chevron.com/</string>
+		<string>http://careers.chevron.com/students/internship_programs/</string>
+		<string>https://www.chevron.com/about</string>
+	</array>
+	<key>Cisco</key>
+	<array>
+		<string>CiscoLogo.png</string>
+		<string>http://www.cisco.com</string>
+		<string>https://jobs.cisco.com/</string>
+		<string>http://weare.cisco.com/c/r/weare/about-us.html</string>
+	</array>
+	<key>Dell</key>
+	<array>
+		<string>DellLogo.png</string>
+		<string>http://www.dell.com</string>
+		<string>https://www.dell.com/learn/us/en/uscorp1/careers</string>
+		<string>http://www.dell.com/learn/us/en/uscorp1/corp-comm</string>
+	</array>
+	<key>Deutsche</key>
+	<array>
+		<string>DeutscheLogo.png</string>
+		<string> https://www.db.com/careers/en/grad/index.html</string>
+		<string>https://www.db.com/careers/en/grad/about.html</string>
+		<string>Career/Internship: https://www.db.com/careers/en/grad/role-search/programs/db-internship-programme-group-technology-operations.html</string>
+	</array>
+	<key>Dolby</key>
+	<array>
+		<string>DolbyLogo.png</string>
+		<string> http://www.dolby.com/us/en/index.html</string>
+		<string>http://www.dolby.com/us/en/index.html</string>
+		<string> http://www.dolby.com/us/en/about/careers/landing.html</string>
+	</array>
+	<key>ExxonMobil</key>
+	<array>
+		<string>ExxonmobilLogo.png</string>
+		<string>http://corporate.exxonmobil.com/</string>
+		<string> http://corporate.exxonmobil.com/en/company/about-us</string>
+		<string>http://careers.exxonmobil.com/</string>
+	</array>
+	<key>GitHub</key>
+	<array>
+		<string>GithubLogo.png</string>
+		<string>https://github.com/</string>
+		<string>https://internships.github.com/</string>
+		<string>https://github.com/about</string>
+	</array>
+	<key>Goldman Sachs</key>
+	<array>
+		<string>GoldmanSachsLogo.png</string>
+		<string>http://www.goldmansachs.com/</string>
+		<string>http://www.goldmansachs.com/careers/index.html</string>
+		<string>http://www.goldmansachs.com/who-we-are/</string>
+	</array>
+	<key>Google</key>
+	<array>
+		<string>GoogleLogo.png</string>
+		<string>https://www.google.com/</string>
+		<string>https://www.google.com/about/careers/students/</string>
+		<string>https://www.google.com/about/careers/</string>
+	</array>
+	<key>IBM</key>
+	<array>
+		<string>IBMLogo.png</string>
+		<string>http://www.ibm.com</string>
+		<string>http://www-03.ibm.com/employment/</string>
+		<string>http://www.ibm.com/ibm/us/en/?lnk=fab</string>
+	</array>
+	<key>Intel</key>
+	<array>
+		<string>IntelLogo.png</string>
+		<string>http://www.intel.com</string>
+		<string>http://jobs.intel.com/</string>
+		<string>http://www.intel.com/content/www/us/en/company-overview/company-overview.html</string>
+	</array>
+	<key>J.P.Morgan</key>
+	<array>
+		<string>JPMorganLogo.png</string>
+		<string>https://www.jpmorganchase.com/</string>
+		<string>http://careers.jpmorgan.com/careers/home</string>
+		<string>https://www.jpmorganchase.com/corporate/About-JPMC/about-us.htm</string>
+	</array>
+	<key>L&apos;Oreal</key>
+	<array>
+		<string>LorealLogo.png</string>
+		<string> https://careers.loreal.com/en/usa</string>
+		<string> http://www.lorealparisusa.com/about-loreal-paris.aspx</string>
+		<string> http://www.lorealparisusa.com/about-loreal-paris.aspx</string>
+	</array>
+	<key>Mastercard</key>
+	<array>
+		<string>MastercardLogo.png</string>
+		<string> https://www.mastercard.us/en-us.html</string>
+		<string>https://www.mastercard.us/en-us/about-mastercard/careers.html</string>
+		<string> https://www.mastercard.us/en-us/about-mastercard.html </string>
+	</array>
+	<key>Microsoft</key>
+	<array>
+		<string>MicrosoftLogo.png</string>
+		<string>http://www.microsoft.com</string>
+		<string>https://careers.microsoft.com/search.aspx</string>
+		<string>https://www.microsoft.com/en-us/about/</string>
+	</array>
+	<key>PGandE</key>
+	<array>
+		<string>PGELogo.png</string>
+		<string>https://www.pge.com/</string>
+		<string>https://www.pge.com/en_US/about-pge/about-pge.page</string>
+		<string>http://careers.pge.com/</string>
+	</array>
+	<key>Symantec</key>
+	<array>
+		<string>SymantecLogo.png</string>
+		<string>http://www.symantec.com</string>
+		<string>https://www.symantec.com/about/careers/opportunities</string>
+		<string>https://www.symantec.com/about</string>
+	</array>
+	<key>T-Mobile</key>
+	<array>
+		<string>TmobileLogo.png</string>
+		<string>http://www.t-mobile.com</string>
+		<string>http://www.adobe.com/careers.html</string>
+		<string>http://www.adobe.com/about-adobe.html</string>
+	</array>
+	<key>Twitter</key>
+	<array>
+		<string>TwitterLogo.png</string>
+		<string>https://twitter.com</string>
+		<string>https://careers.twitter.com/en.html</string>
+		<string>https://about.twitter.com/company</string>
+	</array>
+	<key>USAA</key>
+	<array>
+		<string>USAALogo.png</string>
+		<string>https://www.usaa.com/inet/ent_logon/Logon/</string>
+		<string>https://www.usaajobs.com/</string>
+		<string>ttps://www.usaa.com/inet/pages/about_usaa_main?wa_ref=pub_subglobal_footer_about_usaa_page</string>
+	</array>
+	<key>Verizon Wireless</key>
+	<array>
+		<string>VerizonLogo.png</string>
+		<string>https://www.verizonwireless.com/</string>
+		<string>http://www.verizon.com/about/careers</string>
+		<string>http://www.verizon.com/about/</string>
+	</array>
+	<key>Yello.com</key>
+	<array>
+		<string>YelloLogo.png</string>
+		<string>https://yello.co/</string>
+		<string>https://yello.co/careers</string>
+		<string>https://yello.co/about/</string>
+	</array>
+	<key>Zillow </key>
+	<array>
+		<string>ZillowLogo.png</string>
+		<string>http://www.zillow.com</string>
+		<string>http://www.zillow.com/jobs/</string>
+		<string> http://www.zillow.com/corp/About.htm</string>
+	</array>
+</dict>
+</plist>
