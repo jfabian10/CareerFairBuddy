@@ -2,6 +2,217 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+
+	<key>Toyota</key>
+	<array>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>Turner</key>
+	<array>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>The Clorox Company</key>
+	<array>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>Texas Instruments</key>
+	<array>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>Prudential</key>
+	<array>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>Olin Corporation</key>
+	<array>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>NXP Semiconductors</key>
+	<array>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>Northwestern Mutual</key>
+	<array>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>Northgrop Grumman Corporation</key>
+	<array>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>Norfolk Souther Corp</key>
+	<array>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>Nissan</key>
+	<array>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>NiSource</key>
+	<array>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>Michelin North America</key>
+	<array>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>McKinsey & Company</key>
+	<array>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>Lockheed Martin</key>
+	<array>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>Johnson Controls</key>
+	<array>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>Johnson & Johnson</key>
+	<array>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>John Deere</key>
+	<array>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>Jet Propulsion Lab</key>
+	<array>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>Jacobs</key>
+	<array>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>Huntington Ingall Industries</key>
+	<array>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>Hormel Foods</key>
+	<array>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>Hormel Foods</key>
+	<array>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>Honeywell</key>
+	<array>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>HTNB Corp</key>
+	<array>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>Hensel Phelps Construction</key>
+	<array>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>HDR Inc.</key>
+	<array>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>General Motors</key>
+	<array>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>General Dynamics</key>
+	<array>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>General Atomics</key>
+	<array>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
 	<key>Qualcomm</key>
 	<array>
 		<string></string>
@@ -107,7 +318,7 @@
 		<string>http://www.apple.com/jobs/us/</string>
 		<string>http://www.apple.com/about/</string>
 	</array>
-	<key>Hewlett-Packard Company</key>
+	<key>HP</key>
 	<array>
 		<string>HPLogo.png</string>
 		<string>http://www.hp.com</string>
