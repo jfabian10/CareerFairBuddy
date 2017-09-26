@@ -2,6 +2,27 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>Ecolab</key>
+	<array>
+		<string></string>
+		<string>http://www.ecolab.com/</string>
+		<string>http://jobs.ecolab.com/</string>
+		<string>http://www.ecolab.com/about</string>
+	</array>
+	<key>Eaton</key>
+	<array>
+		<string></string>
+		<string>http://www.eaton.com/Eaton/index.htm</string>
+		<string>http://www.eaton.com/Eaton/OurCompany/AboutUs/</string>
+		<string>https://www.google.com/search?q=eaton+careers&amp;oq=eaton+careers&amp;aqs=chrome.0.0l6.2127j0j7&amp;sourceid=chrome&amp;ie=UTF-8</string>
+	</array>
+	<key>DuPont</key>
+	<array>
+		<string></string>
+		<string>http://www.dupont.com/</string>
+		<string>http://www.dupont.com/corporate-functions/careers.html</string>
+		<string>http://www.dupont.com/corporate-functions/our-company.html</string>
+	</array>
 	<key>CA Technologies</key>
 	<array>
 		<string>CATechnologiesLogo.png</string>
