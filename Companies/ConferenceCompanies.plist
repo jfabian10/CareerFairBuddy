@@ -6,58 +6,58 @@
 	<key>Toyota</key>
 	<array>
 		<string></string>
-		<string></string>
-		<string></string>
-		<string></string>
+		<string>https://www.toyota.com/</string>
+		<string>https://www.toyota.com/usa/careers/</string>
+		<string>https://www.toyota.com/usa/our-story/</string>
 	</array>
 	<key>Turner</key>
 	<array>
 		<string></string>
-		<string></string>
-		<string></string>
-		<string></string>
+		<string>http://www.turner.com/</string>
+		<string>https://www.turnerjobs.com/</string>
+		<string>http://www.turnerconstruction.com/about-us</string>
 	</array>
 	<key>The Clorox Company</key>
 	<array>
 		<string></string>
-		<string></string>
-		<string></string>
-		<string></string>
+		<string>https://www.thecloroxcompany.com/</string>
+		<string>https://www.thecloroxcompany.com/careers/</string>
+		<string>https://www.thecloroxcompany.com/who-we-are/</string>
 	</array>
 	<key>Texas Instruments</key>
 	<array>
 		<string></string>
-		<string></string>
-		<string></string>
-		<string></string>
+		<string>https://www.ti.com/</string>
+		<string>https://careers.ti.com/search-jobs/</string>
+		<string>http://www.ti.com/corp/docs/aboutti.shtml</string>
 	</array>
 	<key>Prudential</key>
 	<array>
 		<string></string>
-		<string></string>
-		<string></string>
-		<string></string>
+		<string>https://www.prudential.com/</string>
+		<string>http://jobs.prudential.com/</string>
+		<string>http://jobs.prudential.com/index.php</string>
 	</array>
 	<key>Olin Corporation</key>
 	<array>
 		<string></string>
-		<string></string>
-		<string></string>
-		<string></string>
+		<string>http://www.olin.com/</string>
+		<string>http://www.olin.com/Careers</string>
+		<string>http://www.olin.com/About_Olin</string>
 	</array>
 	<key>NXP Semiconductors</key>
 	<array>
 		<string></string>
-		<string></string>
-		<string></string>
-		<string></string>
+		<string>https://www.nxp.com/</string>
+		<string>https://www.nxp.com/about/about-nxp/about-nxp/careers-at-nxp:CAREERS</string>
+		<string>https://www.nxp.com/about/about-nxp/about-nxp:ABOUT-NXP</string>
 	</array>
 	<key>Northwestern Mutual</key>
 	<array>
 		<string></string>
-		<string></string>
-		<string></string>
-		<string></string>
+		<string>https://www.northwesternmutual.com/</string>
+		<string>http://www.northwestern.edu/hr/careers/</string>
+		<string>https://www.northwesternmutual.com/who-we-are/</string>
 	</array>
 	<key>Northgrop Grumman Corporation</key>
 	<array>
