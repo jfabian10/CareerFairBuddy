@@ -105,10 +105,12 @@ class CompaniesSrollViewController: UIViewController {
         
         companyLogo.image = UIImage(named: dataPassed[0])
         
-        companyWebsiteButton.setTitle(dataPassed[1], for: .normal) //dataPassed[1]...7
-        companyJobsButton.setTitle(dataPassed[2], for: .normal) //dataPassed[2]....8
-        companyAboutButton.setTitle(dataPassed[3], for: .normal) ///dataPassed[3]....9
-        
+        //companyWebsiteButton.setTitle(dataPassed[1], for: .normal) //dataPassed[1]...7
+        companyWebsiteButton.setTitle("Home", for: .normal) //wont display URL
+        //companyJobsButton.setTitle(dataPassed[2], for: .normal) //dataPassed[2]....8
+        companyJobsButton.setTitle("Careers", for: .normal) 
+        //companyAboutButton.setTitle(dataPassed[3], for: .normal) ///dataPassed[3]....9
+        companyAboutButton.setTitle("About Us", for: .normal) //
 
         
         
