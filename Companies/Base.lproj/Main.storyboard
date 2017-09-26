@@ -17,9 +17,14 @@
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <searchBar key="tableHeaderView" contentMode="redraw" id="3T4-aI-wIg">
+                            <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
+                            <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+                            <textInputTraits key="textInputTraits"/>
+                        </searchBar>
                         <prototypes>
                             <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="CompaniesCellType" id="IFQ-QA-J4Q" customClass="CompaniesTableViewCell" customModule="Companies" customModuleProvider="target">
-                                <rect key="frame" x="0.0" y="28" width="375" height="44"/>
+                                <rect key="frame" x="0.0" y="72" width="375" height="44"/>
                                 <autoresizingMask key="autoresizingMask"/>
                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="IFQ-QA-J4Q" id="f5w-kU-fzk">
                                     <rect key="frame" x="0.0" y="0.0" width="375" height="43.5"/>
@@ -68,6 +73,7 @@
                     </tableView>
                     <navigationItem key="navigationItem" title="Companies" id="C7F-fk-3aa"/>
                     <connections>
+                        <outlet property="searchBar" destination="3T4-aI-wIg" id="LqW-60-P9a"/>
                         <segue destination="hH3-Tg-XdP" kind="show" identifier="CompanyScrollView" id="EWK-BD-2wI"/>
                         <segue destination="58y-hg-x2P" kind="show" identifier="CompanySitesFromScroll" id="n7w-b0-ZiI"/>
                     </connections>
@@ -274,6 +280,6 @@
         <image name="unchecked" width="32" height="32"/>
     </resources>
     <inferredMetricsTieBreakers>
-        <segue reference="tPC-iB-fpO"/>
+        <segue reference="n7w-b0-ZiI"/>
     </inferredMetricsTieBreakers>
 </document>

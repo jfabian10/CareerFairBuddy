@@ -3,10 +3,14 @@
 
 import UIKit
 
-class CompaniesTableViewController: UITableViewController, UISearchResultsUpdating {
+class CompaniesTableViewController: UITableViewController, UISearchResultsUpdating, UISearchBarDelegate {
 
     
     var searchResults = [String]()
+    
+    var isSearching = false
+    
+    @IBOutlet weak var searchBar: UISearchBar!
     
     var searchResultsController = UISearchController()
     
@@ -57,8 +61,8 @@ class CompaniesTableViewController: UITableViewController, UISearchResultsUpdati
             companyNames = dictionaryForCompaniesPListFile.allKeys as! [String]
             companyNames.sort{$0 < $1}
         }
-        
-        
+        searchBar.delegate = self
+        searchBar.returnKeyType = UIReturnKeyType.done
         
         ///////
         
@@ -86,6 +90,11 @@ class CompaniesTableViewController: UITableViewController, UISearchResultsUpdati
 
     override func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         // #warning Incomplete implementation, return the number of rows
+        
+        if isSearching {
+            return searchResults.count
+        }
+        
         
         return searchResultsController.isActive ? searchResults.count : companyNames.count
         
@@ -137,12 +146,21 @@ class CompaniesTableViewController: UITableViewController, UISearchResultsUpdati
     
     override func  tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         
+       
         let rowNumber: Int = (indexPath as NSIndexPath).row
         
         let cell: CompaniesTableViewCell = tableView.dequeueReusableCell(withIdentifier: "CompaniesCellType") as! CompaniesTableViewCell
         
         let companyName: String = companyNames[rowNumber]
-        cell.companyNameLabel!.text = companyName
+        if isSearching {
+            cell.companyNameLabel!.text = searchResults[indexPath.row]
+        }
+        else {
+            cell.companyNameLabel!.text = companyName
+        }
+        
+        
+        //cell.companyNameLabel!.text = companyName
         companyNameForWeb = companyName
         
         
@@ -332,6 +350,20 @@ class CompaniesTableViewController: UITableViewController, UISearchResultsUpdati
          */
         
         searchResultsController = controller
+        
+    }
+    
+    func searchBar(_searchBar: UISearchBar, textDidChange searchText: String){
+        if (searchBar.text == nil || searchBar.text == ""){
+            isSearching = false
+            view.endEditing(true)
+            tableView.reloadData()
+        }
+        else {
+            isSearching = true
+            searchResults = companyNames.filter({$0 == searchBar.text})
+            tableView.reloadData()
+        }
         
     }
     
