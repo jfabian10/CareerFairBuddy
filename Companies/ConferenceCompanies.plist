@@ -2,6 +2,13 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>Capital One</key>
+	<array>
+		<string></string>
+		<string>https://www.capitalone.com/</string>
+		<string>https://www.capitalonecareers.com/</string>
+		<string>https://www.capitalone.com/about/corporate-information/who-we-are/</string>
+	</array>
 	<key>Blue Apron</key>
 	<array>
 		<string></string>
@@ -86,7 +93,6 @@
 		<string>https://www.twosigma.com/careers/students</string>
 		<string>https://www.twosigma.com/about</string>
 	</array>
-
 	<key>Adobe Systems, Inc.</key>
 	<array>
 		<string>AdobeLogo.png</string>
