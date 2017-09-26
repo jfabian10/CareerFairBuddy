@@ -2,6 +2,69 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>Qualcomm</key>
+	<array>
+		<string></string>
+		<string>https://www.qualcomm.com/</string>
+		<string>https://www.qualcomm.com/company/careers</string>
+		<string>https://www.qualcomm.com/company/about</string>
+	</array>
+	<key>Raytheon</key>
+	<array>
+		<string></string>
+		<string>http://www.raytheon.com/</string>
+		<string>https://jobs.raytheon.com/</string>
+		<string>http://www.raytheon.com/ourcompany/</string>
+	</array>
+	<key>Rockwell Automation</key>
+	<array>
+		<string></string>
+		<string>https://www.rockwellautomation.com/</string>
+		<string>https://careers.rockwellautomation.com/</string>
+		<string>https://www.rockwellautomation.com/global/about-us/company-overview.page</string>
+	</array>
+	<key>Schneider Electric</key>
+	<array>
+		<string></string>
+		<string>http://www.schneider-electric.us/en/</string>
+		<string>http://www.schneider-electric.com/en/about-us/careers/overview.jsp</string>
+		<string>http://www.schneider-electric.com/en/about-us/company-profile.jsp</string>
+	</array>
+	<key>Sirius</key>
+	<array>
+		<string></string>
+		<string>http://www.siriuscom.com/</string>
+		<string>http://www.siriuscom.com/about-us/careers/</string>
+		<string>http://www.siriuscom.com/about-us/</string>
+	</array>
+	<key>SpaceX</key>
+	<array>
+		<string></string>
+		<string>http://www.spacex.com/</string>
+		<string>http://www.spacex.com/careers</string>
+		<string>http://www.spacex.com/about</string>
+	</array>
+	<key>Target</key>
+	<array>
+		<string></string>
+		<string>https://www.target.com/</string>
+		<string>https://corporate.target.com/careers/</string>
+		<string>https://corporate.target.com/about</string>
+	</array>
+	<key>Visa</key>
+	<array>
+		<string></string>
+		<string>https://usa.visa.com/</string>
+		<string>https://usa.visa.com/careers.html</string>
+		<string>https://usa.visa.com/about-visa.html</string>
+	</array>
+	<key>Verizon</key>
+	<array>
+		<string></string>
+		<string>https://www.verizonwireless.com/deals-landing/</string>
+		<string>http://www.verizon.com/about/careers</string>
+		<string>https://www.verizon.com/about/homepage</string>
+	</array>
 	<key>Ecolab</key>
 	<array>
 		<string></string>
