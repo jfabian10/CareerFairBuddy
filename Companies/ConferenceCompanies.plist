@@ -2,6 +2,41 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>CA Technologies</key>
+	<array>
+		<string>CATechnologiesLogo.png</string>
+		<string>http://www.ca.com</string>
+		<string>http://www.ca.com/us/why-ca/about-us/careers.html</string>
+		<string>http://www.ca.com/us/why-ca/about-us.html</string>
+	</array>
+	<key>Booz Allen Hamilton, Inc.</key>
+	<array>
+		<string>BoozAllenLogo.png</string>
+		<string>http://www.boozallen.com/</string>
+		<string>http://www.boozallen.com/careers/find-your-job</string>
+		<string>http://www.boozallen.com/about</string>
+	</array>
+	<key>Apple, Inc.</key>
+	<array>
+		<string>AppleLogo.png</string>
+		<string>http://www.apple.com</string>
+		<string>http://www.apple.com/jobs/us/</string>
+		<string>http://www.apple.com/about/</string>
+	</array>
+	<key>Hewlett-Packard Company</key>
+	<array>
+		<string>HPLogo.png</string>
+		<string>http://www.hp.com</string>
+		<string>http://www8.hp.com/us/en/jobs/index.html</string>
+		<string>http://www8.hp.com/us/en/hp-information/</string>
+	</array>
+	<key>Boeing</key>
+	<array>
+		<string>BoeingLogo.png</string>
+		<string>http://www.boeing.com</string>
+		<string>http://www.boeing.com/careers/</string>
+		<string>http://www.boeing.com/company/</string>
+	</array>
 	<key>Capital One</key>
 	<array>
 		<string></string>
