@@ -1,10 +1,7 @@
 //
 //  WebViewController.swift
-//  Companies
-//
-//  Created by CS3714 on 10/16/16.
-//  Copyright © 2016 Jesus Fabian. All rights reserved. 
-//
+//Design of Info Programming Showcase
+
 
 import UIKit
 

@@ -1,10 +1,7 @@
 //
 //  CompanyMapViewController.swift
-//  Companies
-//
-//  Created by CS3714 on 10/17/16.
-//  Copyright © 2016 Jesus Fabian. All rights reserved. ///GOOD
-//
+///Design of Info Programming Showcase
+
 
 import UIKit
 import MapKit
