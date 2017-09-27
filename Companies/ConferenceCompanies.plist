@@ -62,44 +62,44 @@
 	<key>Northgrop Grumman Corporation</key>
 	<array>
 		<string></string>
-		<string></string>
-		<string></string>
-		<string></string>
+		<string>http://www.northropgrumman.com/Pages/default.aspx</string>
+		<string>http://www.northropgrumman.com/Careers/Pages/default.aspx</string>
+		<string>http://www.northropgrumman.com/AboutUs/Welcome/default.aspx</string>
 	</array>
 	<key>Norfolk Souther Corp</key>
 	<array>
 		<string></string>
-		<string></string>
-		<string></string>
-		<string></string>
+		<string>http://www.nscorp.com/content/nscorp/en.html</string>
+		<string>https://jobs.nscorp.com/</string>
+		<string>http://www.nscorp.com/content/nscorp/en.html</string>
 	</array>
 	<key>Nissan</key>
 	<array>
 		<string></string>
-		<string></string>
-		<string></string>
-		<string></string>
+		<string>https://www.nissanusa.com/</string>
+		<string>http://www.nissanmotor.jobs/americas/en/</string>
+		<string>http://www.nissanmotor.jobs/americas/en/about-us-overview.html</string>
 	</array>
 	<key>NiSource</key>
 	<array>
 		<string></string>
-		<string></string>
-		<string></string>
-		<string></string>
+		<string>https://www.nisource.com/</string>
+		<string>https://www.nisource.com/careers</string>
+		<string>https://www.nisource.com/careers/culture</string>
 	</array>
 	<key>Michelin North America</key>
 	<array>
 		<string></string>
-		<string></string>
-		<string></string>
-		<string></string>
+		<string>https://www.michelinman.com/</string>
+		<string>http://jobs.michelinman.com/eng/</string>
+		<string>https://www.michelinman.com/US/en/why-michelin/about.html</string>
 	</array>
 	<key>McKinsey & Company</key>
 	<array>
 		<string></string>
-		<string></string>
-		<string></string>
-		<string></string>
+		<string>https://www.mckinsey.com/</string>
+		<string>https://www.mckinsey.com/careers/home</string>
+		<string>https://www.mckinsey.com/about-us/overview</string>
 	</array>
 	<key>Lockheed Martin</key>
 	<array>
