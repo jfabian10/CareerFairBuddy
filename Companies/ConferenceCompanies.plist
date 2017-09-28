@@ -104,51 +104,51 @@
 	<key>Lockheed Martin</key>
 	<array>
 		<string></string>
-		<string></string>
-		<string></string>
-		<string></string>
+		<string>http://www.lockheedmartin.com/us.html</string>
+		<string>http://www.lockheedmartin.com/us.html</string>
+		<string>http://www.lockheedmartin.com/us/who-we-are.html</string>
 	</array>
 	<key>Johnson Controls</key>
 	<array>
 		<string></string>
-		<string></string>
-		<string></string>
-		<string></string>
+		<string>http://www.johnsoncontrols.com/</string>
+		<string>http://www.johnsoncontrols.com/careers/why-johnson-controls</string>
+		<string>http://www.johnsoncontrols.com/about-us/our-company</string>
 	</array>
 	<key>Johnson & Johnson</key>
 	<array>
 		<string></string>
-		<string></string>
-		<string></string>
-		<string></string>
+		<string>https://www.jnj.com/</string>
+		<string>http://www.careers.jnj.com/</string>
+		<string>https://www.jnj.com/about-jnj</string>
 	</array>
 	<key>John Deere</key>
 	<array>
 		<string></string>
-		<string></string>
-		<string></string>
-		<string></string>
+		<string>https://www.deere.com/en/</string>
+		<string>https://www.deere.com/en/our-company/john-deere-careers/</string>
+		<string>https://www.deere.com/en/our-company/about-john-deere/</string>
 	</array>
 	<key>Jet Propulsion Lab</key>
 	<array>
 		<string></string>
-		<string></string>
-		<string></string>
-		<string></string>
+		<string>https://www.jpl.nasa.gov/</string>
+		<string>https://nasajobs.nasa.gov/</string>
+		<string>https://www.nasa.gov/about/index.html</string>
 	</array>
 	<key>Jacobs</key>
 	<array>
 		<string></string>
-		<string></string>
-		<string></string>
-		<string></string>
+		<string>http://www.jacobs.com/</string>
+		<string>http://www.jacobs.com/join-us</string>
+		<string>http://www.jacobs.com/about</string>
 	</array>
 	<key>Huntington Ingall Industries</key>
 	<array>
 		<string></string>
-		<string></string>
-		<string></string>
-		<string></string>
+		<string>http://www.huntingtoningalls.com/</string>
+		<string>http://www.huntingtoningalls.com/careers/</string>
+		<string>http://www.huntingtoningalls.com/who-we-are/</string>
 	</array>
 	<key>Hormel Foods</key>
 	<array>
