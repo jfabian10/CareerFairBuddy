@@ -2,7 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-
 	<key>Toyota</key>
 	<array>
 		<string></string>
@@ -19,7 +18,7 @@
 	</array>
 	<key>The Clorox Company</key>
 	<array>
-		<string></string>
+		<string>CloroxLogo.png</string>
 		<string>https://www.thecloroxcompany.com/</string>
 		<string>https://www.thecloroxcompany.com/careers/</string>
 		<string>https://www.thecloroxcompany.com/who-we-are/</string>
@@ -94,7 +93,7 @@
 		<string>http://jobs.michelinman.com/eng/</string>
 		<string>https://www.michelinman.com/US/en/why-michelin/about.html</string>
 	</array>
-    <key>McKinsey &amp; Company</key>
+	<key>McKinsey &amp; Company</key>
 	<array>
 		<string></string>
 		<string>https://www.mckinsey.com/</string>
@@ -115,7 +114,7 @@
 		<string>http://www.johnsoncontrols.com/careers/why-johnson-controls</string>
 		<string>http://www.johnsoncontrols.com/about-us/our-company</string>
 	</array>
-    <key>Johnson &amp; Johnson</key>
+	<key>Johnson &amp; Johnson</key>
 	<array>
 		<string></string>
 		<string>https://www.jnj.com/</string>
@@ -187,7 +186,7 @@
 	</array>
 	<key>SpaceX</key>
 	<array>
-		<string></string>
+		<string>SpaceXLogo.png</string>
 		<string>http://www.spacex.com/</string>
 		<string>http://www.spacex.com/careers</string>
 		<string>http://www.spacex.com/about</string>
@@ -201,7 +200,7 @@
 	</array>
 	<key>Visa</key>
 	<array>
-		<string></string>
+		<string>VisaLogo.png</string>
 		<string>https://usa.visa.com/</string>
 		<string>https://usa.visa.com/careers.html</string>
 		<string>https://usa.visa.com/about-visa.html</string>
@@ -339,13 +338,6 @@
 		<string>http://www.airproducts.com/Careers/overview.aspx</string>
 		<string>http://www.airproducts.com/Company/about-us.aspx</string>
 	</array>
-	<key>3M</key>
-	<array>
-        <string>3MLogo.png</string>
-		<string>https://www.3m.com/3M/en_US/company-us/</string>
-		<string>https://www.3m.com/3M/en_US/careers-us/</string>
-		<string>https://www.3m.com/3M/en_US/company-us/about-3m/</string>
-	</array>
 	<key>Accenture</key>
 	<array>
 		<string>AccentureLogo.png</string>
@@ -355,7 +347,7 @@
 	</array>
 	<key>Two Sigma</key>
 	<array>
-		<string></string>
+		<string>TwoSigmaLogo</string>
 		<string>https://www.twosigma.com/</string>
 		<string>https://www.twosigma.com/careers/students</string>
 		<string>https://www.twosigma.com/about</string>
