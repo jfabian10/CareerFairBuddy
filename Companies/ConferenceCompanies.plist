@@ -94,7 +94,7 @@
 		<string>http://jobs.michelinman.com/eng/</string>
 		<string>https://www.michelinman.com/US/en/why-michelin/about.html</string>
 	</array>
-	<key>McKinsey & Company</key>
+    <key>McKinsey &amp; Company</key>
 	<array>
 		<string></string>
 		<string>https://www.mckinsey.com/</string>
@@ -115,7 +115,7 @@
 		<string>http://www.johnsoncontrols.com/careers/why-johnson-controls</string>
 		<string>http://www.johnsoncontrols.com/about-us/our-company</string>
 	</array>
-	<key>Johnson & Johnson</key>
+    <key>Johnson &amp; Johnson</key>
 	<array>
 		<string></string>
 		<string>https://www.jnj.com/</string>
@@ -149,69 +149,6 @@
 		<string>http://www.huntingtoningalls.com/</string>
 		<string>http://www.huntingtoningalls.com/careers/</string>
 		<string>http://www.huntingtoningalls.com/who-we-are/</string>
-	</array>
-	<key>Hormel Foods</key>
-	<array>
-		<string></string>
-		<string></string>
-		<string></string>
-		<string></string>
-	</array>
-	<key>Hormel Foods</key>
-	<array>
-		<string></string>
-		<string></string>
-		<string></string>
-		<string></string>
-	</array>
-	<key>Honeywell</key>
-	<array>
-		<string></string>
-		<string></string>
-		<string></string>
-		<string></string>
-	</array>
-	<key>HTNB Corp</key>
-	<array>
-		<string></string>
-		<string></string>
-		<string></string>
-		<string></string>
-	</array>
-	<key>Hensel Phelps Construction</key>
-	<array>
-		<string></string>
-		<string></string>
-		<string></string>
-		<string></string>
-	</array>
-	<key>HDR Inc.</key>
-	<array>
-		<string></string>
-		<string></string>
-		<string></string>
-		<string></string>
-	</array>
-	<key>General Motors</key>
-	<array>
-		<string></string>
-		<string></string>
-		<string></string>
-		<string></string>
-	</array>
-	<key>General Dynamics</key>
-	<array>
-		<string></string>
-		<string></string>
-		<string></string>
-		<string></string>
-	</array>
-	<key>General Atomics</key>
-	<array>
-		<string></string>
-		<string></string>
-		<string></string>
-		<string></string>
 	</array>
 	<key>Qualcomm</key>
 	<array>
@@ -404,7 +341,7 @@
 	</array>
 	<key>3M</key>
 	<array>
-		<string></string>
+        <string>3MLogo.png</string>
 		<string>https://www.3m.com/3M/en_US/company-us/</string>
 		<string>https://www.3m.com/3M/en_US/careers-us/</string>
 		<string>https://www.3m.com/3M/en_US/company-us/about-3m/</string>
@@ -448,15 +385,15 @@
 	<array>
 		<string>BrocadeLogo.png</string>
 		<string>http://www.brocade.com/en.html</string>
-		<string> http://www.brocade.com/en/about-us/careers.html</string>
-		<string> http://www.brocade.com/en/about-us.html</string>
+		<string>http://www.brocade.com/en/about-us/careers.html</string>
+		<string>http://www.brocade.com/en/about-us.html</string>
 	</array>
 	<key>BP</key>
 	<array>
 		<string>BPLogo.png</string>
-		<string> http://www.bp.com/</string>
-		<string> http://www.bp.com/en/global/bp-careers.html</string>
-		<string> http://www.bp.com/en/global/corporate/about-bp.html</string>
+		<string>http://www.bp.com/</string>
+		<string>http://www.bp.com/en/global/bp-careers.html</string>
+		<string>http://www.bp.com/en/global/corporate/about-bp.html</string>
 	</array>
 	<key>Chevron</key>
 	<array>
@@ -542,7 +479,7 @@
 		<string>http://careers.jpmorgan.com/careers/home</string>
 		<string>https://www.jpmorganchase.com/corporate/About-JPMC/about-us.htm</string>
 	</array>
-	<key>L&apos;Oreal</key>
+	<key>L&amp;Oreal</key>
 	<array>
 		<string>LorealLogo.png</string>
 		<string> https://careers.loreal.com/en/usa</string>

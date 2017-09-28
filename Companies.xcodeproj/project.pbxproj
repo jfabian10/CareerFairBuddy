@@ -238,7 +238,6 @@
 					};
 					B7E8256F1DB42E8C00100041 = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = 6GVS6QQL86;
 						ProvisioningStyle = Automatic;
 						TestTargetID = B7E825501DB42E8C00100041;
 					};
@@ -539,7 +538,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 6GVS6QQL86;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = CompaniesUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.jesusfabian.CompaniesUITests;
@@ -556,7 +555,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 6GVS6QQL86;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = CompaniesUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.jesusfabian.CompaniesUITests;
