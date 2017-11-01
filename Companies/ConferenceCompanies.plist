@@ -2,19 +2,19 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>Toyota</key>
+	<key>Facebook</key>
 	<array>
-		<string></string>
-		<string>https://www.toyota.com/</string>
-		<string>https://www.toyota.com/usa/careers/</string>
-		<string>https://www.toyota.com/usa/our-story/</string>
+		<string>FacebookLogo.png</string>
+		<string>https://www.facebook.com/</string>
+		<string>https://www.facebook.com/careers/</string>
+		<string>https://www.facebook.com/careers/community/</string>
 	</array>
-	<key>Turner</key>
+	<key>Airbnb</key>
 	<array>
-		<string></string>
-		<string>http://www.turner.com/</string>
-		<string>https://www.turnerjobs.com/</string>
-		<string>http://www.turnerconstruction.com/about-us</string>
+		<string>AirbnbLogo.png</string>
+		<string>https://www.airbnb.com/?logo=1</string>
+		<string>https://www.airbnb.com/careers/university</string>
+		<string>https://www.airbnb.com/about/about-us</string>
 	</array>
 	<key>The Clorox Company</key>
 	<array>
@@ -23,166 +23,12 @@
 		<string>https://www.thecloroxcompany.com/careers/</string>
 		<string>https://www.thecloroxcompany.com/who-we-are/</string>
 	</array>
-	<key>Texas Instruments</key>
-	<array>
-		<string></string>
-		<string>https://www.ti.com/</string>
-		<string>https://careers.ti.com/search-jobs/</string>
-		<string>http://www.ti.com/corp/docs/aboutti.shtml</string>
-	</array>
-	<key>Prudential</key>
-	<array>
-		<string></string>
-		<string>https://www.prudential.com/</string>
-		<string>http://jobs.prudential.com/</string>
-		<string>http://jobs.prudential.com/index.php</string>
-	</array>
-	<key>Olin Corporation</key>
-	<array>
-		<string></string>
-		<string>http://www.olin.com/</string>
-		<string>http://www.olin.com/Careers</string>
-		<string>http://www.olin.com/About_Olin</string>
-	</array>
-	<key>NXP Semiconductors</key>
-	<array>
-		<string></string>
-		<string>https://www.nxp.com/</string>
-		<string>https://www.nxp.com/about/about-nxp/about-nxp/careers-at-nxp:CAREERS</string>
-		<string>https://www.nxp.com/about/about-nxp/about-nxp:ABOUT-NXP</string>
-	</array>
-	<key>Northwestern Mutual</key>
-	<array>
-		<string></string>
-		<string>https://www.northwesternmutual.com/</string>
-		<string>http://www.northwestern.edu/hr/careers/</string>
-		<string>https://www.northwesternmutual.com/who-we-are/</string>
-	</array>
-	<key>Northgrop Grumman Corporation</key>
-	<array>
-		<string></string>
-		<string>http://www.northropgrumman.com/Pages/default.aspx</string>
-		<string>http://www.northropgrumman.com/Careers/Pages/default.aspx</string>
-		<string>http://www.northropgrumman.com/AboutUs/Welcome/default.aspx</string>
-	</array>
-	<key>Norfolk Souther Corp</key>
-	<array>
-		<string></string>
-		<string>http://www.nscorp.com/content/nscorp/en.html</string>
-		<string>https://jobs.nscorp.com/</string>
-		<string>http://www.nscorp.com/content/nscorp/en.html</string>
-	</array>
-	<key>Nissan</key>
-	<array>
-		<string></string>
-		<string>https://www.nissanusa.com/</string>
-		<string>http://www.nissanmotor.jobs/americas/en/</string>
-		<string>http://www.nissanmotor.jobs/americas/en/about-us-overview.html</string>
-	</array>
-	<key>NiSource</key>
-	<array>
-		<string></string>
-		<string>https://www.nisource.com/</string>
-		<string>https://www.nisource.com/careers</string>
-		<string>https://www.nisource.com/careers/culture</string>
-	</array>
-	<key>Michelin North America</key>
-	<array>
-		<string></string>
-		<string>https://www.michelinman.com/</string>
-		<string>http://jobs.michelinman.com/eng/</string>
-		<string>https://www.michelinman.com/US/en/why-michelin/about.html</string>
-	</array>
 	<key>McKinsey &amp; Company</key>
 	<array>
-		<string></string>
+		<string>McKinseyLogo.png</string>
 		<string>https://www.mckinsey.com/</string>
 		<string>https://www.mckinsey.com/careers/home</string>
 		<string>https://www.mckinsey.com/about-us/overview</string>
-	</array>
-	<key>Lockheed Martin</key>
-	<array>
-		<string></string>
-		<string>http://www.lockheedmartin.com/us.html</string>
-		<string>http://www.lockheedmartin.com/us.html</string>
-		<string>http://www.lockheedmartin.com/us/who-we-are.html</string>
-	</array>
-	<key>Johnson Controls</key>
-	<array>
-		<string></string>
-		<string>http://www.johnsoncontrols.com/</string>
-		<string>http://www.johnsoncontrols.com/careers/why-johnson-controls</string>
-		<string>http://www.johnsoncontrols.com/about-us/our-company</string>
-	</array>
-	<key>Johnson &amp; Johnson</key>
-	<array>
-		<string></string>
-		<string>https://www.jnj.com/</string>
-		<string>http://www.careers.jnj.com/</string>
-		<string>https://www.jnj.com/about-jnj</string>
-	</array>
-	<key>John Deere</key>
-	<array>
-		<string></string>
-		<string>https://www.deere.com/en/</string>
-		<string>https://www.deere.com/en/our-company/john-deere-careers/</string>
-		<string>https://www.deere.com/en/our-company/about-john-deere/</string>
-	</array>
-	<key>Jet Propulsion Lab</key>
-	<array>
-		<string></string>
-		<string>https://www.jpl.nasa.gov/</string>
-		<string>https://nasajobs.nasa.gov/</string>
-		<string>https://www.nasa.gov/about/index.html</string>
-	</array>
-	<key>Jacobs</key>
-	<array>
-		<string></string>
-		<string>http://www.jacobs.com/</string>
-		<string>http://www.jacobs.com/join-us</string>
-		<string>http://www.jacobs.com/about</string>
-	</array>
-	<key>Huntington Ingall Industries</key>
-	<array>
-		<string></string>
-		<string>http://www.huntingtoningalls.com/</string>
-		<string>http://www.huntingtoningalls.com/careers/</string>
-		<string>http://www.huntingtoningalls.com/who-we-are/</string>
-	</array>
-	<key>Qualcomm</key>
-	<array>
-		<string></string>
-		<string>https://www.qualcomm.com/</string>
-		<string>https://www.qualcomm.com/company/careers</string>
-		<string>https://www.qualcomm.com/company/about</string>
-	</array>
-	<key>Raytheon</key>
-	<array>
-		<string></string>
-		<string>http://www.raytheon.com/</string>
-		<string>https://jobs.raytheon.com/</string>
-		<string>http://www.raytheon.com/ourcompany/</string>
-	</array>
-	<key>Rockwell Automation</key>
-	<array>
-		<string></string>
-		<string>https://www.rockwellautomation.com/</string>
-		<string>https://careers.rockwellautomation.com/</string>
-		<string>https://www.rockwellautomation.com/global/about-us/company-overview.page</string>
-	</array>
-	<key>Schneider Electric</key>
-	<array>
-		<string></string>
-		<string>http://www.schneider-electric.us/en/</string>
-		<string>http://www.schneider-electric.com/en/about-us/careers/overview.jsp</string>
-		<string>http://www.schneider-electric.com/en/about-us/company-profile.jsp</string>
-	</array>
-	<key>Sirius</key>
-	<array>
-		<string></string>
-		<string>http://www.siriuscom.com/</string>
-		<string>http://www.siriuscom.com/about-us/careers/</string>
-		<string>http://www.siriuscom.com/about-us/</string>
 	</array>
 	<key>SpaceX</key>
 	<array>
@@ -191,47 +37,12 @@
 		<string>http://www.spacex.com/careers</string>
 		<string>http://www.spacex.com/about</string>
 	</array>
-	<key>Target</key>
-	<array>
-		<string></string>
-		<string>https://www.target.com/</string>
-		<string>https://corporate.target.com/careers/</string>
-		<string>https://corporate.target.com/about</string>
-	</array>
 	<key>Visa</key>
 	<array>
 		<string>VisaLogo.png</string>
 		<string>https://usa.visa.com/</string>
 		<string>https://usa.visa.com/careers.html</string>
 		<string>https://usa.visa.com/about-visa.html</string>
-	</array>
-	<key>Verizon</key>
-	<array>
-		<string></string>
-		<string>https://www.verizonwireless.com/deals-landing/</string>
-		<string>http://www.verizon.com/about/careers</string>
-		<string>https://www.verizon.com/about/homepage</string>
-	</array>
-	<key>Ecolab</key>
-	<array>
-		<string></string>
-		<string>http://www.ecolab.com/</string>
-		<string>http://jobs.ecolab.com/</string>
-		<string>http://www.ecolab.com/about</string>
-	</array>
-	<key>Eaton</key>
-	<array>
-		<string></string>
-		<string>http://www.eaton.com/Eaton/index.htm</string>
-		<string>http://www.eaton.com/Eaton/OurCompany/AboutUs/</string>
-		<string>https://www.google.com/search?q=eaton+careers&amp;oq=eaton+careers&amp;aqs=chrome.0.0l6.2127j0j7&amp;sourceid=chrome&amp;ie=UTF-8</string>
-	</array>
-	<key>DuPont</key>
-	<array>
-		<string></string>
-		<string>http://www.dupont.com/</string>
-		<string>http://www.dupont.com/corporate-functions/careers.html</string>
-		<string>http://www.dupont.com/corporate-functions/our-company.html</string>
 	</array>
 	<key>CA Technologies</key>
 	<array>
@@ -268,75 +79,12 @@
 		<string>http://www.boeing.com/careers/</string>
 		<string>http://www.boeing.com/company/</string>
 	</array>
-	<key>Capital One</key>
-	<array>
-		<string></string>
-		<string>https://www.capitalone.com/</string>
-		<string>https://www.capitalonecareers.com/</string>
-		<string>https://www.capitalone.com/about/corporate-information/who-we-are/</string>
-	</array>
 	<key>Blue Apron</key>
 	<array>
-		<string></string>
+		<string>BlueApronLogo.png</string>
 		<string>https://www.blueapron.com/</string>
 		<string>https://www.blueapron.com/pages/our-team</string>
 		<string>https://www.blueapron.com/pages/vision</string>
-	</array>
-	<key>Bechtel</key>
-	<array>
-		<string></string>
-		<string>http://www.bechtel.com/</string>
-		<string>https://jobs.bechtel.com/</string>
-		<string>http://www.bechtel.com/services/</string>
-	</array>
-	<key>BASF</key>
-	<array>
-		<string></string>
-		<string>https://www.basf.com/us/en.html</string>
-		<string>https://www.basf.com/us/en/company/career.html</string>
-		<string>https://www.basf.com/us/en/company/career/why-join-basf.html</string>
-	</array>
-	<key>BAE Systems</key>
-	<array>
-		<string></string>
-		<string>http://www.baesystems.com/en/home</string>
-		<string>http://www.baesystems.com/en-us/careers</string>
-		<string>http://www.baesystems.com/en-us/our-company/bae-systems-inc/about-us</string>
-	</array>
-	<key>Arup</key>
-	<array>
-		<string></string>
-		<string>https://www.arup.com/</string>
-		<string>https://www.arup.com/careers</string>
-		<string>https://www.arup.com/our-firm</string>
-	</array>
-	<key>American Airlines</key>
-	<array>
-		<string></string>
-		<string>https://www.aa.com/homePage.do</string>
-		<string>http://careers.calif.aaa.com/</string>
-		<string>https://www.aa.com/i18n/customer-service/about-us/american-airlines-group.jsp</string>
-	</array>
-	<key>Allstate</key>
-	<array>
-		<string></string>
-		<string>https://www.allstate.com/</string>
-		<string>https://www.allstate.com/careers.aspx</string>
-		<string>https://www.allstate.com/about.aspx</string>
-	</array>
-	<key>Akamai</key>
-	<array>
-		<string></string>
-		<string>https://www.akamai.com/</string>
-		<string>https://www.akamai.com/us/en/about/careers/</string>
-		<string>https://www.akamai.com/us/en/about/</string>
-	</array>
-	<key>Air Products</key>
-	<array>
-		<string></string>
-		<string>http://www.airproducts.com/</string>
-		<string>http://www.airproducts.com/Careers/overview.aspx</string>
-		<string>http://www.airproducts.com/Company/about-us.aspx</string>
 	</array>
 	<key>Accenture</key>
 	<array>
@@ -474,9 +222,9 @@
 	<key>L&amp;Oreal</key>
 	<array>
 		<string>LorealLogo.png</string>
-		<string> https://careers.loreal.com/en/usa</string>
-		<string> http://www.lorealparisusa.com/about-loreal-paris.aspx</string>
-		<string> http://www.lorealparisusa.com/about-loreal-paris.aspx</string>
+		<string>http://www.loreal.com/</string>
+		<string>https://career.loreal.com/</string>
+		<string>http://www.loreal.com/group</string>
 	</array>
 	<key>Mastercard</key>
 	<array>
@@ -546,7 +294,7 @@
 		<string>ZillowLogo.png</string>
 		<string>http://www.zillow.com</string>
 		<string>http://www.zillow.com/jobs/</string>
-		<string> http://www.zillow.com/corp/About.htm</string>
+		<string>http://www.zillowgroup.com/about-zillow-group/</string>
 	</array>
 </dict>
 </plist>

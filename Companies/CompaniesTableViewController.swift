@@ -234,6 +234,8 @@ class CompaniesTableViewController: UITableViewController, UISearchResultsUpdati
          
          */
         
+        
+        
         if (indexPath as NSIndexPath).row % 2 == 0 {
             
             // Set even-numbered row's background color to MintCream, #F5FFFA 245,255,250
